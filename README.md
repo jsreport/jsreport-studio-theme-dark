@@ -5,7 +5,7 @@
 
 > Dark theme for jsreport studio
 
-See http://jsreport.net/learn
+See http://jsreport.net/learn/studio#themes
 
 ## Installation
 > npm install jsreport-studio-theme-dark
