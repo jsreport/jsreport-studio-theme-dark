@@ -2,7 +2,7 @@
 module.exports = {
   name: 'studio-theme-dark',
   main: './lib/main.js',
-  dependencies: ['studio'],
+  dependencies: ['express', 'studio'],
   optionsSchema: {
     extensions: {
       studio: {
