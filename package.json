@@ -1,7 +1,7 @@
 {
   "name": "jsreport-studio-theme-dark",
   "description": "dark theme for jsreport studio",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "main": "index.js",
   "author": "BJR Matos <bjrmatos@gmail.com> (https://github.com/bjrmatos)",
   "contributors": [
